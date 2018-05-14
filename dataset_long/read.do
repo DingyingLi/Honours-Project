@@ -1,0 +1,2 @@
+clear all
+import delimited stockprice_average_dataset2_0905.csv
